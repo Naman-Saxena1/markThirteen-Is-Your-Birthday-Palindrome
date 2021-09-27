@@ -1,0 +1,40 @@
+html
+{
+    height: 100%;
+}
+
+body
+{
+    background-color: #00887A;
+}
+
+h1
+{
+    text-align: center;
+}
+
+p
+{
+    margin: 4rem 0;
+    font-size: x-large;
+    text-align: center;
+}
+
+#date
+{
+    display: flex;
+    margin: auto;
+    font-size: x-large;
+    padding: 1rem;
+    border-radius: 0.8rem;
+    border-width: 0;
+}
+
+#check
+{
+    display: flex;
+    margin: 4rem auto;
+    font-size: x-large;
+    padding: 0.5rem 1rem;
+    border-radius: 0.8rem;
+}
